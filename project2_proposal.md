@@ -12,17 +12,19 @@ https://smartstore.naver.com/gemgemmarket/products/7036001554?NaPm=ct%3Dlhrm0328
 
 300mm * 240mm * 5T = 7,600원 * 6개 = 45,600원
 
-300mm * 30mm * 15T = 7,600원 * 12개 = 91,200원
+300mm * 30mm * 15T = 3,300원 * 12개 = 39,600원
 
-**합: 136,800원**
+배송비 3,000원
+
+**합: 88,200원**
 
 https://www.acryiae.com/front/product/view.do?productSeq=1&n_media=27758&n_query=%EC%95%84%ED%81%AC%EB%A6%B4%ED%8C%90&n_rank=1&n_ad_group=grp-a001-02-000000033137236&n_ad=nad-a001-02-000000234205070&n_campaign_type=2&n_mall_id=acryiae&n_mall_pid=1&n_ad_group_type=2&NaPm=ct%3Dlhrou6zk%7Cci%3D0zi0002aMAfykkmTx12%5F%7Ctr%3Dpla%7Chk%3Dcb92c84a835d10be52e4ead99915217268f202ae
 
-무게: 약 1.3kg
+무게: 약 700g
 
 
 
-**총합: 186,600원**
+**총합: 138,000원**
 
 
 
